@@ -6,3 +6,4 @@ num = 0
 while num < 10:
     print("giorgi")
     num = num + 1
+ 
