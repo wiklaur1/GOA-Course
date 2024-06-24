@@ -5,10 +5,11 @@
 
 age =int(input("pleas enter your age:" ))
 
-if age <=5 and age >13:
+if age >=5 and age <13:
     print("you are kid")
-elif age <=13 and age >18:
+elif age >=13 and age <18:
     print("you are teenager")
+else: ("you are kid")
 
     
         

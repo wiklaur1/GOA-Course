@@ -8,7 +8,7 @@
 movie = ["harry potter,bad boys,walking dead"]
 music = ["ice cube,pimpin,sigue,amo aller amos"]
 list = movie + music
-print(list)
+print(list[len(list)-1]) 
 
 
 
