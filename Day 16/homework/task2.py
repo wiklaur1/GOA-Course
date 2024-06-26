@@ -1,11 +1,6 @@
-"""2) https://www.w3schools.com/python/python_lists.asp გადახედეთ ამ მასალას და თითო სექციაზე გააკეთეთ 5-5 მაგალითი"""
+"""2) ექმენით სია, სადაც გექნებათ 1-იდან 10-ის ჩათვლით რიცხვები. ჯერ გამოიტანეთ სიის პირველი, ხოლო შემდეგ ბოლო ელემენტი."""
 
 
-
-Cars = ["BMW","Mercedes","Pagani"]
-print(Cars)
-
-Fruit = ["Apple","Banana","Orange"]
-print(Fruit)
-
-
+arr = [1,2,3,4,5,6,7,8,9,10]
+print(arr[0])
+print(arr[len(arr)-1])
