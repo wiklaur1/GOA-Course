@@ -1,0 +1,1 @@
+"""49. Print each character of the string "loop" using a for loop."""

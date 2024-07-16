@@ -1,0 +1,1 @@
+"""26. Print the elements of the list ["apple", "banana", "cherry"] using a while loo"""

@@ -1,0 +1,1 @@
+"""42. Print the numbers 10, 20, 30 using a while loop."""

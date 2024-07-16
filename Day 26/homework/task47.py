@@ -1,0 +1,1 @@
+"""47. Print the first 5 positive integers using a for loop."""

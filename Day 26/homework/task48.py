@@ -1,0 +1,1 @@
+"""48. Print the first 5 positive integers using a while loop."""

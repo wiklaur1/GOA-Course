@@ -1,0 +1,1 @@
+"""50. Print each character of the string "loop" using a while loop."""
